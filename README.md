@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%234B8BBE)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
