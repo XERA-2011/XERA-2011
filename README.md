@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=for-the-badge&logo=webpack)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&color=%234B8BBE)
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,deepseek,chrome,postman,vite,pinia,threejs,docker,discord,photoshop)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
