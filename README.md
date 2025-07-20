@@ -1,4 +1,4 @@
-![Hello World 👋](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=0969da&width=435&lines=Hello+World+👋)
+![Hello World 👋](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello+World+👋)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
