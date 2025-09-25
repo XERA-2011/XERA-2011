@@ -1,4 +1,10 @@
+![X Icon](./icon.svg)
+
 ![Hello World 👋](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello+World+👋)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
+
 
 <table>
   <tr>
@@ -28,6 +34,3 @@
     </td>
   </tr>
 </table>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
