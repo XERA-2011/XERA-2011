@@ -1,4 +1,4 @@
-![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=console.log(%22Hello%2C%20World%22);console.log(%22你好%2C%20世界%22))
+![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C%20World;你好%2C%20世界)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
 
