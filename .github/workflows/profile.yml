@@ -29,8 +29,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
           OUTPUT_DIR: dist/profile-3d-contrib
 
       # push the content to main branch
