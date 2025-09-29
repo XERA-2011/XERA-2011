@@ -2,37 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <a href="#-frontend-core">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br>
-        <sub><b>Frontend Core</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="#-frameworks--libraries">
-        <img src="https://skillicons.dev/icons?i=vue,react,pinia" /><br>
-        <sub><b>Frameworks</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="#-tooling--environment">
-        <img src="https://skillicons.dev/icons?i=vite,webpack,docker" /><br>
-        <sub><b>Tooling</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="#-design--utils">
-        <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /><br>
-        <sub><b>Design & Utils</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -45,7 +16,7 @@
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/html.webp">
