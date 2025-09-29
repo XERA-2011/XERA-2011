@@ -2,20 +2,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
 
+<!-- programming tool icon 编程工具图标 -->
+<!-- <img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br> -->
+
 <!-- svg -->
 <div>
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" /> 
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" />
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -24,9 +26,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
