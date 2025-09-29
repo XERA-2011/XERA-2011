@@ -2,9 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br>
-
 <!-- svg -->
 <div>
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" />
@@ -19,17 +16,6 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" />
-<br>
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/github.webp">
-
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -38,6 +24,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
