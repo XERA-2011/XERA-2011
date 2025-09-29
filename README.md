@@ -3,20 +3,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
 
 <!-- programming tool icon 编程工具图标 -->
-<!-- <img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br> -->
+<img src="https://skillicons.dev/icons?i=ps,react,vue,vite,vscode,idea,git,discord" /><br>
 
 <!-- svg -->
 <div>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" /> 
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" /> 
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" />
 </div>
 
