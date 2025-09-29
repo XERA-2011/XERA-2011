@@ -37,3 +37,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>

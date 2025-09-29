@@ -1,4 +1,4 @@
-name: Snake Contribution
+name: Generate Snake and 3D Contribution
 
 on:
   schedule:
@@ -11,10 +11,10 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a snake game from a github user contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,9 +23,18 @@ jobs:
             dist/profile-snake-contrib/github-contribution-grid-snake.svg
             dist/profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # generates 3D contribution profile
+      - name: generate 3d github profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT_DIR: dist/profile-3d-contrib
+
+      # push the content to main branch
+      - name: push generated content to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
