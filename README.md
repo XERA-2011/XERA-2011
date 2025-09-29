@@ -6,18 +6,20 @@
 <img src="https://skillicons.dev/icons?i=ps,ts,discord,mongodb,instagram,idea,git,docker,nginx" /><br>
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-
+<div>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" /> 
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" />
+<br>
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/cssgif.webp">
@@ -27,6 +29,8 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/assets/github.webp">
+
+</div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
