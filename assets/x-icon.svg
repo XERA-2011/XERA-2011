@@ -1,10 +1,19 @@
 <svg viewBox="0 0 100 100" width="50" height="50" xmlns="http://www.w3.org/2000/svg">
   <line x1="25" y1="25" x2="75" y2="75" stroke="black" stroke-width="12"
         stroke-dasharray="71" stroke-dashoffset="71">
-    <animate attributeName="stroke-dashoffset" from="71" to="0" dur="0.5s" fill="freeze" />
-  </line>
+    
+    <animate id="draw1" attributeName="stroke-dashoffset" from="71" to="0" dur="0.5s" 
+             begin="0s; undraw2.end" fill="freeze" />
+    
+    <animate id="undraw1" attributeName="stroke-dashoffset" from="0" to="71" dur="0.5s" 
+             begin="draw2.end + 5s" fill="freeze" /> </line>
+  
   <line x1="25" y1="75" x2="75" y2="25" stroke="black" stroke-width="12"
         stroke-dasharray="71" stroke-dashoffset="71">
-    <animate attributeName="stroke-dashoffset" from="71" to="0" dur="0.5s" begin="0.5s" fill="freeze" />
-  </line>
+    
+    <animate id="draw2" attributeName="stroke-dashoffset" from="71" to="0" dur="0.5s" 
+             begin="draw1.end" fill="freeze" />
+             
+    <animate id="undraw2" attributeName="stroke-dashoffset" from="0" to="71" dur="0.5s" 
+             begin="draw2.end + 5s" fill="freeze" /> </line>
 </svg>
