@@ -1,6 +1,14 @@
 ![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C%20World;嗨%2C%20世界)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink)
+<div>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
+      <source media="(prefers-color-scheme: light)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%ffffff" />
+      <img alt="Jokes Card" src="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
+    </picture>
+</div>
+
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,react,vue,vite,vscode,idea,git,discord" /><br>
@@ -27,14 +35,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/XERA-2011/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<!-- Joke 笑话 -->
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
-    <source media="(prefers-color-scheme: light)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%ffffff" />
-    <img alt="Jokes Card" src="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
-  </picture>
-</div>
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <!-- <picture>
