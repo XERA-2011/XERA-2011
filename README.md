@@ -3,9 +3,9 @@
 <div>
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=XERA-2011&layout=compact&show_icons=true&theme=calm_pink" />
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
-      <source media="(prefers-color-scheme: light)" srcset="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%ffffff" />
-      <img alt="Jokes Card" src="https://x-pocket.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
+      <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/joke?hideBorder&bgColor=%ffffff" />
+      <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/joke?hideBorder&bgColor=%23121212" />
     </picture>
 </div>
 
