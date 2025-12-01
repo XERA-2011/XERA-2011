@@ -11,7 +11,7 @@
 </div>
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,react,vue,vite,vscode,idea,git,discord" /><br>
+<img alt="Icons" src="https://xera-2011.vercel.app/api/github/icons?i=react,vue,next,nuxt,vite,vscode,idea,git,python,docker" /><br>
 
 <!-- svg -->
 <div>
