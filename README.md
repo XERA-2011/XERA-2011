@@ -1,11 +1,11 @@
 ![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C%20World;嗨%2C%20世界)
 
-<div style="paddin-bottom=20px">
+<div>
     <img alt="Top Langs" src="https://xera-2011.vercel.app/api/github/top-langs?username=XERA-2011&theme=dark&layout=horizontal" />
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%23121212" />
-      <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%ffffff" />
-      <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%23121212" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%23121212&width=500&height=135" />
+      <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%ffffff&width=500&height=135" />
+      <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/github/joke?hideBorder&bgColor=%23121212&width=500&height=135" />
     </picture>
     <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&mode=multi&layout=horizontal&theme=dark" />
 </div>
