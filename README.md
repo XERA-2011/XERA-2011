@@ -1,4 +1,4 @@
-![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Hello%2C%20World;嗨%2C%20世界)
+![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Vibe%2C%20Coding;氛围%2C%20编程)
 
 <div>
     <img alt="Top Langs" src="https://xera-2011.vercel.app/api/github/top-langs?username=XERA-2011&theme=dark&layout=horizontal" />
