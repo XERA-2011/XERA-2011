@@ -1,5 +1,4 @@
-![X Icon](./assets/x-icon.svg) ![XERA-2011](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&width=435&lines=Vibe%2C%20Coding;氛围%2C%20编程)
-
+![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&color=000&width=300&height=50&center=false&pause=200&weight=bold)](https://xera-2011.vercel.app/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&color=000&width=300&height=50&center=false&pause=200&weight=bold)
 <div>
     <img alt="Top Langs" src="https://xera-2011.vercel.app/api/github/top-langs?username=XERA-2011&theme=dark&layout=horizontal" />
     <picture>
