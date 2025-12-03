@@ -1,4 +1,4 @@
-![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&color=000&width=300&height=50&center=false&pause=200&weight=bold)](https://xera-2011.vercel.app/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&color=000&width=300&height=50&center=false&pause=200&weight=bold)
+![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&size=20&height=50)](https://xera-2011.vercel.app/github/typing-svg?lines=Vibe+Coding%3BWelcome+to+XERA-2011%3B&size=20&height=50)
 <div>
     <img alt="Top Langs" src="https://xera-2011.vercel.app/api/github/top-langs?username=XERA-2011&theme=dark&layout=horizontal" />
     <picture>
