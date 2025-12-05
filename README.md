@@ -6,7 +6,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/joke?width=500&height=135&theme=random" />
       <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/github/joke?width=500&height=135&theme=random" />
     </picture>
-    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&mode=multi&layout=horizontal&theme=dark" />
+    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb,doge&mode=multi&layout=horizontal&theme=dark" />
 </div>
 
 <!-- programming tool icon 编程工具图标 -->
