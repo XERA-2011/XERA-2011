@@ -29,7 +29,7 @@
 
 <!-- Snake Code Contribution Map -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XERA-2011/XERA-2011/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XERA-2011/XERA-2011/output/snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/XERA-2011/XERA-2011/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-light.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
 </picture>
