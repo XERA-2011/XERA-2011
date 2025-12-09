@@ -1,4 +1,7 @@
 ![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?lines=Hello+World%21%3BWelcome+to+XERA-2011%3BVibe+Coding&font=monospace&size=20&color=000000&background=00000000&width=300&height=50&center=false&vCenter=true&multiline=false&duration=5000&pause=1000&repeat=true&letterSpacing=normal&bold=true)](https://xera-2011.vercel.app/github/typing-svg)
+
+<details>
+  <summary>More...</summary>
 <div>
     <img alt="Top Langs" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/top-langs-compact-dark.svg" />
     <picture>
@@ -33,3 +36,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-light.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
 </picture>
+</details>
