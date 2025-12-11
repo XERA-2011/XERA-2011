@@ -1,4 +1,4 @@
-![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?lines=Hello+World%21%3BWelcome+to+XERA-2011%3BVibe+Coding&font=monospace&size=20&color=000000&background=00000000&width=300&height=50&center=false&vCenter=true&multiline=false&duration=5000&pause=1000&repeat=true&letterSpacing=normal&bold=true)](https://xera-2011.vercel.app/github/typing-svg)
+![X Icon](./assets/x-icon.svg) [![Typing SVG](https://xera-2011.vercel.app/api/github/typing-svg?font=monospace&size=14&color=000000&background=00000000&width=600&height=100&center=false&vCenter=true&multiline=true&duration=5000&pause=1000&repeat=true&letterSpacing=normal&bold=true&type=movie-quotes)](https://xera-2011.vercel.app/github/typing-svg)
 
 <details>
   <summary>More...</summary>
