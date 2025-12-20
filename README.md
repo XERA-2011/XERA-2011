@@ -13,9 +13,9 @@
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=light" />
-    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc%2Ceth%2Csol%2Cbnb&mode=multi&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc%2Ceth%2Csol%2Cbnb&mode=multi&theme=light" />
+    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc%2Ceth%2Csol%2Cbnb&mode=multi&theme=dark" />
   </picture>
 </div>
 
