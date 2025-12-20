@@ -7,9 +7,16 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/joke?theme=dark&width=500&height=140" />
       <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/joke?theme=light&width=500&height=140" />
-      <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/github/joke?theme=dark&width=500&height=140" />
+      <img alt="Jokes Card" src="https://xera-2011.vercel.app/api/github/joke?width=500&height=140" />
     </picture>
-    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb,doge&mode=multi&layout=horizontal&theme=dark" />
+</div>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=light" />
+    <img alt="Crypto Prices" src="https://xera-2011.vercel.app/api/github/crypto-coin?coin=btc,eth,sol,bnb&theme=dark" />
+  </picture>
 </div>
 
 <!-- programming tool icon 编程工具图标 -->
