@@ -27,21 +27,6 @@
 <!-- programming tool icon 编程工具图标 -->
 <img alt="Icons" src="https://xera-2011.vercel.app/api/github/icons?i=react,vue,next,nuxt,vite,vscode,idea,git,python,docker" /><br>
 
-<!-- svg -->
-<div>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" /> 
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" />
-</div>
-
 <!-- Snake Code Contribution Map -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
