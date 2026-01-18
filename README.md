@@ -5,9 +5,9 @@
 
 <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/top-langs-compact-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/top-langs-compact-light.svg" />
-      <img alt="Top langs" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/top-langs-compact-dark.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/top-langs-compact-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/top-langs-compact-light.svg" />
+      <img alt="Top langs" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/top-langs-compact-dark.svg" />
     </picture>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://xera-2011.vercel.app/api/github/joke?theme=dark&width=500&height=140" />
@@ -29,8 +29,8 @@
 
 <!-- Snake Code Contribution Map -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-light.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions@output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/snake-light.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/XERA-2011/x-actions-profile@output/snake-dark.svg" />
 </picture>
 </details>
